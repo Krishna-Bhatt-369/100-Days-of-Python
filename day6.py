@@ -23,10 +23,3 @@ print("The product of", num1, "and", num2, "is:", int(num1) * int(num2))
 
 
 
-#Additional I learned this today.
-
-num=input("Enter your number: ")
-if int(num) < 0:
-    print("The number is negative.") 
-else:
-    print("The number is positive.")
